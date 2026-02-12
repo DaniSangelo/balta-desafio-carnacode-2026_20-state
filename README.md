@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-8](https://github.com/user-attachments/assets/27785244-bb8a-40c8-ba6e-27b2dae31ea6)
 
 ## 🥁 CarnaCode 2026 - Desafio 20 - State
 
